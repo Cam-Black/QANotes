@@ -15,7 +15,6 @@
 
 <h2><strong>The Response</strong></h2>
 
-
 To create a flexible working methodology so devs can pivot to work on relevany features.
 <h3><strong>4 Core Values</strong></h3>
 <ul>
@@ -23,4 +22,14 @@ To create a flexible working methodology so devs can pivot to work on relevany f
     <li>Customer collab over contract negotiations</li>
     <li>Responding to change over following a plan</li>
     <li>Individuals and interactions over processes and tools</li>
+</ul>
+
+<h3><strong>Process Control</strong></h3>
+Agile promotes process control in projects
+Work on experience and evidence of following an MVP<br>
+<h3><strong>3 Rules to Follow</strong></h3>
+<ul>
+    <li>Adaption</li>
+    <li>Transparency</li>
+    <li>Inspection</li>
 </ul>
