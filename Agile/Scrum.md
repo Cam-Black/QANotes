@@ -43,3 +43,15 @@ Many differen kind of items you can add to a product backlog:
 --------------
 A user story is expected behaviour of a product from the user perspective:
 - Break down functionality based on requirements.
+- User Keywords:
+    - As a,
+    - I want,
+    - So that,
+    - Given,
+    - When,
+    - and then
+
+Epics
+------
+Epics are a collection of user stories:
+![](https://qa-courseware-images.s3.eu-west-2.amazonaws.com/agile/product-backlog-items/000.png)
