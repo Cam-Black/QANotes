@@ -54,4 +54,5 @@ A user story is expected behaviour of a product from the user perspective:
 Epics
 ------
 Epics are a collection of user stories:
+
 ![](https://qa-courseware-images.s3.eu-west-2.amazonaws.com/agile/product-backlog-items/000.png)
