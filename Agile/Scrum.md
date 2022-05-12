@@ -29,3 +29,17 @@ There are 4 main kinds:
 - Daily Standup
 - Sprint review meeting
 - Sprint retro
+
+**Product Backlog**
+-------------------
+Many differen kind of items you can add to a product backlog:
+- User Story
+- Use Cases
+- Bugs, Fixes, Errors,
+- Constraints,
+- Tasks
+
+**User Stories**
+--------------
+A user story is expected behaviour of a product from the user perspective:
+- Break down functionality based on requirements.
